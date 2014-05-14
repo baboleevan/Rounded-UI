@@ -24,7 +24,7 @@ To use Rounded-UI elements, add `android:background="@drawable/<item name>"` to 
 
 Replace `<item name>` according to the shape you wish to use (in the example image above):
 
-- Container: rounded_container
+- Container: `rounded_container`
 - Default Button: `rounded_button_default`
 - Button Number 1: `rounded_button_1`
 - Button Number 2: `rounded_button_2`
