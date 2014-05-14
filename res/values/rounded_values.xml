@@ -26,6 +26,7 @@
     <color name="rounded_stroke_focused_color">#e3e3e3</color> <!-- Focused edge color -->
     <color name="rounded_pressed_color">#e3e3e3</color> <!-- Pressed color -->
     <color name="rounded_disabled_color">#e3e3e3</color> <!-- Disabled color -->
+    <color name="rounded_toggled_color">#e3e3e3</color> <!-- Toggled color -->
     
     <!-- Radius -->
     <dimen name="rounded_radius_default">20dp</dimen> <!-- Default radius -->
