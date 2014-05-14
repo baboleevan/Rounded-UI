@@ -5,7 +5,7 @@ This is a set of rounded, customizable UI elements for Android. This includes a 
 
 This does not use images to create the button; it uses shapes, and therefore, it can easily be customized within the app, just with a change in a single file.
 
-Please check out [the official website](http://provectium.github.io/rounded-ui/) (Coming soon) for more information.
+Please check out [the official website](http://provectium.github.io/Rounded-UI/) (Coming soon) for more information.
 
 Screenshots
 ----
