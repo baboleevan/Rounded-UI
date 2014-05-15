@@ -20,7 +20,7 @@
     <item>
         <shape android:shape="rectangle">
             
-            <solid android:color="@color/rounded_stroke_color" />
+            <solid android:color="@color/rounded_stroke_focused_color" />
             
             <corners
         		android:topLeftRadius="0dp"
