@@ -9,6 +9,7 @@ Screenshots
 ----
 ![Example image 1](./example1.png)
 ![Example image 2](./example2.png)
+![Example image 3](./example3.png)
 
 Set-up
 ----
@@ -44,17 +45,22 @@ For toggle buttons, please add `_toggle` to the end of the `<item name>` above.
 
 Also, please specify the height: `android:layout_height="50dp"` or the UI Elements will look compressed in older Android versions.
 
+To change the font color when you press (or toggle, etc.): `android:textColor="@drawable/rounded_button_text"` and `android:textColor="@drawable/rounded_button_text_toggle"` for toggle buttons.
+
 To customize the radius, color, border color, etc., please change the values in the /res/values/rounded_values.
 
 Example
 ----
 
-`<Button
+```
+<Button
 	android:id="@+id/button"
 	android:layout_width="wrap_content"
 	android:layout_height="50dp"
+	android:textColor="@drawable/rounded_button_text"
 	android:background="@drawable/rounded_button_default"
-	android:text="Button" />`
+	android:text="Button" />
+```
 
 The following code will create the Default Button.
 
